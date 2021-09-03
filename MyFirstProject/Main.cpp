@@ -22,4 +22,5 @@ int main()
 {
 	std::cout << "Hello World!" << std::endl;
 	std::cout << "Favorite Color: Blue" << std::endl;
+	return 0;
 }
